@@ -1,0 +1,7 @@
+[package]
+name = "video_editor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+igat = { version = "0.0.4", git = "https://github.com/Ichinose0/Igat" }
